@@ -349,3 +349,6 @@ The linked technical guides below are currently in Simplified Chinese.
 | [Architecture](docs/architecture-and-development-plan.md) · [Implementation](docs/implementation.md) · [Workbench](docs/workbench.md) | Design, compatibility boundaries, and validation records |
 
 This project draws on AIStock's single-stock pipeline and jev-trader's model integration. [reference/](reference/) retains the upstream MIT license; the [AIStock patch license](patches/AIStock-LICENSE) accompanies the patch. These upstream licenses do not establish a unified license for this project's new code.
+
+## Contact
+Telegram: @teraus111
